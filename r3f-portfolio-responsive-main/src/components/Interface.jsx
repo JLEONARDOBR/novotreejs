@@ -67,9 +67,13 @@ const AboutSection = (props) => {
           delay: 1.5,
         }}
       >
-        I make YouTube videos to help developers
+        Somos uma startup brasileira focada no 
         <br />
-        learn how to build 3D apps
+        desenvolvimento de tecnologia para a 
+        <br />
+        comunidade surda, como livros em realidade aumentada e jogos em realidade virtual.
+        <br />
+        I make YouTube videos to help developers
       </motion.p>
       <motion.button
         onClick={() => setSection(3)}
