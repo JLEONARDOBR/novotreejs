@@ -71,9 +71,10 @@ const AboutSection = (props) => {
         <br />
         desenvolvimento de tecnologia para a 
         <br />
-        comunidade surda, como livros em realidade 
+        comunidade surda, como livros em 
+        realidade aumentada e jogos em  
         <br />
-        aumentada e jogos em realidade virtual.
+        realidade virtual.
       </motion.p>
       <motion.button
         onClick={() => setSection(3)}
