@@ -48,7 +48,7 @@ const AboutSection = (props) => {
   return (
     <Section mobileTop>
       <h1 className="text-4xl md:text-6xl font-extrabold leading-snug mt-8 md:mt-0">
-        Hi, I'm
+        Somos a
         <br />
         <span className="bg-white px-1 italic">InclusiVR</span>
       </h1>

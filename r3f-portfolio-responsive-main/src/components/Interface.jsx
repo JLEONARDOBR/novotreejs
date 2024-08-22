@@ -48,9 +48,9 @@ const AboutSection = (props) => {
   return (
     <Section mobileTop>
       <h1 className="text-4xl md:text-6xl font-extrabold leading-snug mt-8 md:mt-0">
-        Hi, I'm
+        Somos a
         <br />
-        <span className="bg-white px-1 italic">InclusiVR</span>
+        <span className="">InclusiVR</span>
       </h1>
       <motion.p
         className="text-lg text-gray-600 mt-4"
