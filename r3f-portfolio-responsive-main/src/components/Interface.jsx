@@ -92,7 +92,7 @@ const AboutSection = (props) => {
           delay: 2,
         }}
       >
-        Contact me
+        Contate-nos
       </motion.button>
     </Section>
   );
@@ -270,7 +270,7 @@ const ContactSection = () => {
   const [state, handleSubmit] = useForm("mayzgjbd");
   return (
     <Section>
-      <h2 className="text-3xl md:text-5xl font-bold">Contact me</h2>
+      <h2 className="text-3xl md:text-5xl font-bold">Contate-nos</h2>
       <div className="mt-8 p-8 rounded-md bg-white bg-opacity-50 w-96 max-w-full">
         {state.succeeded ? (
           <p className="text-gray-900 text-center">Thanks for your message !</p>
