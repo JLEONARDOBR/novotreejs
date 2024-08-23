@@ -71,7 +71,8 @@ const AboutSection = (props) => {
         <br />
         desenvolvimento de tecnologia para a 
         <br />
-        comunidade surda, como livros em 
+        comunidade surda, como livros em
+        <br /> 
         realidade aumentada e jogos em  
         <br />
         realidade virtual.
